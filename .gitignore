@@ -3,3 +3,4 @@ overlays
 target
 .idea
 .DS_Store
+.solano*
